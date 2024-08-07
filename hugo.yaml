@@ -63,17 +63,15 @@ imaging:
   anchor: smart
 
 params:
-  
   copyright:
     authors: >-
-      Project Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
-      |
+      The Update Framework Authors| [CC BY
+      4.0](https://creativecommons.org/licenses/by/4.0) |
     # from_year: 2024
-  github_repo: https://github.com/chalin/docsy-starter
+  github_repo: https://github.com/theupdateframework
   gcs_engine_id: 011217106833237091527:la2vtv2emlw # CUSTOMIZE # FIXME get an ID for the starter?
   privacy_policy: https://www.linuxfoundation.org/legal/privacy-policy
   ui:
-    logo: "static/icons/logo.svg"
     navbar_logo: true
     showLightDarkModeMenu: true
     sidebar_cache_limit: 10
@@ -92,25 +90,25 @@ params:
         improve</a>.
   links: # CUSTOMIZE
     user:
-      - name: GitHub Discussions
-        url: https://github.com/google/docsy/discussions
+      - name: GitHub community
+        url: https://github.com/theupdateframework/community
         icon: fa-brands fa-github
         desc: Discussion and help from your fellow users
       - name: User mailing list
-        url: https://groups.google.com/forum/#!forum/docsy-users
+        url: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
         icon: fa-solid fa-envelope
-        desc: Sign up for Docsy announcements
-      - name: Twitter
-        url: https://twitter.com/docsydocs
-        icon: fa-brands fa-x-twitter
-        desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://stackoverflow.com/questions/tagged/docsy
-        icon: fa-brands fa-stack-overflow
-        desc: Practical questions and curated answers
+        desc: Sign up for TUF announcements
+      - name: Slack channel
+        url: https://communityinviter.com/apps/cloud-native/cncf
+        icon: fa-brands fa-slack
+        desc: Connect with us on CNCF slack channel tuf!
+      - name: Community meetings
+        url: https://www.cncf.io/calendar
+        icon: fa-regular fa-calendar-days
+        desc: Join our community meetings
     developer:
-      - name: GitHub
-        url: https://github.com/google/docsy
+      - name: TUF GitHub Repo
+        url: https://github.com/theupdateframework
         icon: fa-brands fa-github
         desc: Development takes place here!
 
