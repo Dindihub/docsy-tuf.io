@@ -107,7 +107,7 @@ params:
         icon: fa-regular fa-calendar-days
         desc: Join our community meetings
     developer:
-      - name: TUF GitHub Repo
+      - name: GitHub repo
         url: https://github.com/theupdateframework
         icon: fa-brands fa-github
         desc: Development takes place here!
