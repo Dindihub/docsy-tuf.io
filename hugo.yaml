@@ -94,14 +94,14 @@ params:
         url: https://github.com/theupdateframework/community
         icon: fa-brands fa-github
         desc: Discussion and help from your fellow users
-      - name: User mailing list
-        url: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
+      - name: TUF Google group
+        url: https://groups.google.com/g/theupdateframework
         icon: fa-solid fa-envelope
         desc: Sign up for TUF announcements
       - name: Slack channel
         url: https://communityinviter.com/apps/cloud-native/cncf
         icon: fa-brands fa-slack
-        desc: Connect with us on CNCF slack channel tuf!
+        desc: Connect with us on CNCF Slack channel for TUF
       - name: Community meetings
         url: https://www.cncf.io/calendar
         icon: fa-regular fa-calendar-days
