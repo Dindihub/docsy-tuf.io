@@ -90,10 +90,6 @@ params:
         improve</a>.
   links: # CUSTOMIZE
     user:
-      - name: GitHub community
-        url: https://github.com/theupdateframework/community
-        icon: fa-brands fa-github
-        desc: Discussion and help from your fellow users
       - name: TUF Google group
         url: https://groups.google.com/g/theupdateframework
         icon: fa-solid fa-envelope
