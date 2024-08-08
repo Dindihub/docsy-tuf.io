@@ -29,7 +29,7 @@ developers can adopt into any software update system.
 
 {{% blocks/feature icon="fa-lightbulb" title="Our work" url="docs/" %}}
 
-Discover how TUF secures Update systems
+Discover how TUF secures update systems
 
 {{% /blocks/feature %}}
 
