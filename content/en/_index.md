@@ -46,9 +46,9 @@ Used in production by various tech companies and open source organizations.
 
 {{% blocks/feature icon="fa-brands fa-github" title="Contribute" url="https://github.com/theupdateframework" %}}
 Start contributing to TUF open source by creating a Pull request on
-[GitHub](https://github.com/theupdateframework) {{% /blocks/feature %}}
-Start contributing to TUF open source by creating a Pull request on
-[GitHub](https://github.com/theupdateframework) {{% /blocks/feature %}}
+[GitHub](https://github.com/theupdateframework) 
+
+{{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
@@ -66,4 +66,4 @@ Graduated project.
 
 {{% /blocks/section %}}
 
-.
+
