@@ -1,6 +1,6 @@
 # cSpell:ignore docsy github goldmark linkify netlify
 
-baseURL: https://theupdateframework.io/ # CUSTOMIZE
+baseURL: https://theupdateframework.io
 title: TUF
 disableKinds: [taxonomy]
 theme: [docsy]
@@ -37,7 +37,7 @@ languages:
     languageName: English
     languageCode: en-US
     params:
-      description: A Framework for securing software update systems # CUSTOMIZE
+      description: A Framework for securing software update systems
 
 #
 # Markup and imaging
