@@ -94,7 +94,7 @@ params:
         url: https://github.com/theupdateframework/community
         icon: fa-brands fa-github
         desc: Discussion and help from your fellow users
-      - name: User mailing list
+      - name: TUF Google group
         url: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
         icon: fa-solid fa-envelope
         desc: Sign up for TUF announcements
