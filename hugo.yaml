@@ -101,7 +101,7 @@ params:
       - name: Slack channel
         url: https://communityinviter.com/apps/cloud-native/cncf
         icon: fa-brands fa-slack
-        desc: Connect with us on CNCF slack channel tuf!
+        desc: Connect with us on CNCF Slack channel for TUF
       - name: Community meetings
         url: https://www.cncf.io/calendar
         icon: fa-regular fa-calendar-days
