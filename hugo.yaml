@@ -99,11 +99,11 @@ params:
         icon: fa-brands fa-slack
         desc: Connect with us on CNCF Slack channel for TUF
       - name: Community meetings
-        url: https://www.cncf.io/calendar
+        url: https://github.com/theupdateframework/community?tab=readme-ov-file
         icon: fa-regular fa-calendar-days
         desc: Join our community meetings
     developer:
-      - name: GitHub repo
+      - name: GitHub repository
         url: https://github.com/theupdateframework/theupdateframework.io
         icon: fa-brands fa-github
         desc: Development takes place here!
