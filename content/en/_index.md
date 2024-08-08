@@ -46,7 +46,7 @@ Start contributing to TUF open source by creating a Pull request on
 
 {{% /blocks/section %}}
 
-{{% blocks/lead color="primary" type="cncf" %}}
+{{% blocks/section color="primary" type="cncf" %}}
 
 **TUF** is a [Cloud Native Computing Foundation](https://www.cncf.io)(CNCF) [graduated project.](https://www.cncf.io/projects)
 
