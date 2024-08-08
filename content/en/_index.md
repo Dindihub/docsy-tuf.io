@@ -46,7 +46,7 @@ Used in production by various tech companies and open source organizations.
 
 {{% blocks/feature icon="fa-brands fa-github" title="Contribute" url="https://github.com/theupdateframework" %}}
 Start contributing to TUF open source by creating a Pull request on
-[GitHub](https://github.com/theupdateframework) 
+[GitHub](https://github.com/theupdateframework)
 
 {{% /blocks/feature %}}
 
@@ -57,13 +57,10 @@ Start contributing to TUF open source by creating a Pull request on
 **TUF** is a [Cloud Native Computing Foundation](https://www.cncf.io) (CNCF)
 Graduated project.
 
-[![CNCF logo][]][cncf] 
-{.cncf}
+[![CNCF logo][]][cncf] {.cncf}
 
 [cncf]: https://cncf.io
 [cncf logo]: static/img/cncf-white.svg
 [incubating]: https://www.cncf.io/projects/
 
 {{% /blocks/section %}}
-
-
