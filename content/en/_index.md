@@ -36,7 +36,6 @@ Discover how TUF secures update systems
 {{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="/docs/adoptions" %}}
 Used in production by various tech companies and open source organizations.
 
-
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-brands fa-github" title="Contribute" url="https://github.com/theupdateframework" %}}
@@ -52,8 +51,7 @@ Start contributing to TUF open source by creating a Pull request on
 **TUF** is a [Cloud Native Computing Foundation](https://www.cncf.io) (CNCF)
 Graduated project.
 
-[![CNCF logo][]][cncf] 
-{.cncf}
+[![CNCF logo][]][cncf] {.cncf}
 
 [cncf]: https://cncf.io
 [cncf logo]: static/img/cncf-white.svg
