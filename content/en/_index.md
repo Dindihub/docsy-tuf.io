@@ -57,5 +57,3 @@ Start contributing to TUF open source by creating a Pull request on
 [incubating]: https://www.cncf.io/projects/
 
 {{% /blocks/section %}}
-
-.
