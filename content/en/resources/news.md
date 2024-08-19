@@ -1,15 +1,13 @@
 ---
 title: News
 description: TUF news coverage
-aliases: 
-  -[/news]
-  -[/press]
+aliases: -[/news] -[/press]
 ---
 
 ## Highlights
 
-Here are our news highlights. For a complete list, see the
-[Press](#press) section.
+Here are our news highlights. For a complete list, see the [Press](#press)
+section.
 
 **June 16, 2021**
 
