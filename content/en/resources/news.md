@@ -5,7 +5,8 @@ title: News
 
 ## Highlights
 
-Here are our news highlights. For a complete list, see the [Press](#press)section.
+Here are our news highlights. For a complete list, see the
+[Press](#press)section.
 
 **June 16, 2021**
 
@@ -17,11 +18,13 @@ root, and shorter root key lifespan than traditional PKI models.
 
 **March 5, 2021**
 
-The [TUF specification](https://theupdateframework.github.io/specification/latest/index.html)
+The
+[TUF specification](https://theupdateframework.github.io/specification/latest/index.html)
 is now published as a rich HTML document with a table of contents, syntax
 highlighting, cross-linking, and other features.
 
-The new publication machinery also maintains a [list of all versions ](https://theupdateframework.github.io/specification/)
+The new publication machinery also maintains a
+[list of all versions ](https://theupdateframework.github.io/specification/)
 published since the format change.
 
 **October 30, 2020**
@@ -170,8 +173,7 @@ available starting with Docker 1.8, and supports image signing and verification.
 For more information on the Docker + TUF integration, consult
 [this blog post](https://blog.docker.com/2015/08/content-trust-docker-1-8).
 
-
-## Press 
+## Press
 
 - [Design2Part Magazine-April 2, 2020: Open Source Framework Helps Automakers Secure OTA Updates](https://www.d2pmagazine.com/2020/04/02/6099/)
 
