@@ -1,6 +1,7 @@
 ---
 title: Publications
-description:
+description: Publications on securing software updater
+systems
 ---
 
 The following papers provide detailed information on securing software updater
