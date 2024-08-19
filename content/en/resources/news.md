@@ -1,7 +1,9 @@
 ---
 title: News
 description: TUF news coverage
-# aliases: [/news/press]
+aliases: 
+  -[/news]
+  -[/press]
 ---
 
 ## Highlights
