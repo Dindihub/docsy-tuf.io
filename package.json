@@ -42,14 +42,14 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
-    "cspell": "^8.13.1",
-    "hugo-extended": "0.131.0",
+    "cspell": "^8.14.2",
+    "hugo-extended": "0.133.0",
     "postcss-cli": "^11.0.0",
     "prettier": "^3.3.3"
   },
   "optionalDependencies": {
-    "netlify-cli": "^17.33.6",
-    "npm-check-updates": "^17.0.5"
+    "netlify-cli": "^17.34.2",
+    "npm-check-updates": "^17.1.0"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
   "engines": {
