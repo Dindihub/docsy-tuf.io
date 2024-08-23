@@ -1,6 +1,12 @@
 ---
 title: TUF
 description: A framework for securing software update systems
+outputs:
+  - HTML
+  - REDIRECTS # Include this `content/en` ONLY
+developer_note:
+  The blocks/cover shortcode (used below) will use as a background image any
+  image file containing "background" in its name.
 ---
 
 {{% blocks/cover title="The Update Framework" image_anchor="top" color="primary" height="max" %}}
