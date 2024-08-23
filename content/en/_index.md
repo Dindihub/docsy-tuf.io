@@ -1,16 +1,9 @@
 ---
-title: Docsy starter
-description: A website starter for technical documentation
-outputs:
-  - HTML
-  - REDIRECTS # Include this `content/en` ONLY
-developer_note:
-  The blocks/cover shortcode (used below) will use as a background image any
-  image file containing "background" in its name.
-show_banner: true
+title: TUF
+description: A framework for securing software update systems
 ---
 
-{{% blocks/cover title="Docsy Starter" image_anchor="top" height="full" %}}
+{{% blocks/cover title="The Update Framework" image_anchor="top" color="primary" height="max" %}}
 
 <!-- prettier-ignore -->
 {{% param description %}}
@@ -20,38 +13,48 @@ show_banner: true
 <a class="btn btn-lg btn-secondary" href="docs/get-started/">Get started</a>
 {.p-initial .my-5}
 
-{{% blocks/link-down color="info" %}} {{% /blocks/cover %}}
+{{% /blocks/cover%}}
 
-{{% blocks/lead color="primary" %}}
+{{% blocks/lead color="tertiary" %}}
 
-Docsy is a theme for the Hugo static site generator that's specifically designed
-for technical documentation sets. Our aim is to help you get a working
-documentation site up and running as easily as possible, so you can concentrate
-on creating great content for your users.
+The Update Framework (TUF) maintains the security of software update systems,
+providing protection even against attackers that compromise the repository or
+signing keys. TUF provides a flexible framework and
+[specification](https://theupdateframework.github.io/specification/latest/) that
+developers can adopt into any software update system.
 
-<a href="https://www.netlify.com" target="_blank" rel="noopener">
-  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
-</a>
 {{% /blocks/lead %}}
 
 {{% blocks/section color="dark" type="row" %}}
 
-{{% blocks/feature icon="fa-lightbulb" title="See Docsy in action!" url="/docs/examples/" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Our work" url="docs/" %}}
 
-As well as our example site, there's a growing number of projects using Docsy
-for their doc sites.
-
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
-
-We do a [Pull Request](https://github.com/google/docsy/pulls) contributions
-workflow on **GitHub**. New users are always welcome!
+Discover how TUF secures update systems
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-brands fa-x-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-Find out about new features and how our users are using Docsy.
+{{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="docs/adoptions/" %}}
+Used in production by various tech companies and open source organizations.
+
 {{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-brands fa-github" title="Contribute" url="https://github.com/theupdateframework" %}}
+Start contributing to TUF open source by creating a Pull request on
+[GitHub](https://github.com/theupdateframework)
+
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
+{{% blocks/section color="primary" type="cncf" %}}
+
+**TUF** is a [CNCF](https://www.cncf.io)
+[graduated](https://www.cncf.io/projects) project.
+
+[![CNCF logo][]][cncf]
+
+[cncf]: https://cncf.io
+[cncf logo]: static/img/cncf-white.svg
+[incubating]: https://www.cncf.io/projects/
 
 {{% /blocks/section %}}
