@@ -6,7 +6,7 @@ aliases: [/news, /press]
 
 ## Highlights
 
-Here are our news highlights. For a complete coverage, see the [Press](#press)
+Here are our news highlights. For a complete list, see the [Press](#press)
 section.
 
 **June 16, 2021**
