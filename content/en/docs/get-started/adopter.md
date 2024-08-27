@@ -8,7 +8,7 @@ TUF provides a framework for integration of the
 [security](docs/overview/security) properties into new and existing content
 delivery systems.
 
-While some [adoptions](/community) integrate TUF by implementing the framework
+While some [adoptions](/community/adoptions/) integrate TUF by implementing the framework
 from scratch, others start from either a TUF implementation or from a TUF
 system.
 
