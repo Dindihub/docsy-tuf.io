@@ -1,7 +1,8 @@
 ---
-title: Specification (latest)
-weight: 10
-description:
+title: Specification
+menu: { main: { weight: 35 } }
+cascade:
+  type: docs
 ---
 
 ## Overview
