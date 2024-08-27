@@ -39,7 +39,7 @@ Discover how TUF secures update systems
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="docs/adoptions/" %}}
+{{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="community/" %}}
 Used in production by various tech companies and open source organizations.
 
 {{% /blocks/feature %}}
