@@ -8,7 +8,7 @@
     {{ $img    := .tag | lower }}
     {{ $type   := .img_type | default "png" }}
     {{ $alt    := .alt | default .tag }}
-    {{ $imgUrl := printf "community/adoptions/img/logos/%s_logo.%s" $img $type | relURL }}
+    {{ $imgUrl := printf "img/%s-logo.%s" $img $type }}
     <div class="adoptions-item">
       <a href="{{ .url }}" target="_blank">
         <img class="adoptions-logo" src="{{ $imgUrl }}" alt="{{ $alt }} logo">
