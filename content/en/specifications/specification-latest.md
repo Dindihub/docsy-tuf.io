@@ -25,5 +25,5 @@ The following specification versions are available:
 - [v1.0.18](https://theupdateframework.github.io/specification/v1.0.18/index.html)
 - [v1.0.17](https://theupdateframework.github.io/specification/v1.0.17/index.html)
 
-Find here an updated list of the
-[spec versions](https://theupdateframework.github.io/specification/)
+This list is also available from
+[Spec versions](https://theupdateframework.github.io/specification/).
