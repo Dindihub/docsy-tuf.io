@@ -4,11 +4,14 @@ weight: 40
 description: Explore practical adoptions of TUF
 ---
 
-By clicking on the images below, you will be linked either to articles that
-cover the TUF adoption, presentations on the adoption, or to repositories
-containing the relevant code.
+Each TUF adoption listed below links to an article, presentation, or repository
+containing relevant code.
+
+{{< adoptions "main" >}}
 
 ## Ongoing
+
+{{< adoptions "ongoing" >}}
 
 ## Others
 

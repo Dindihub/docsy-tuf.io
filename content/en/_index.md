@@ -39,7 +39,7 @@ Discover how TUF secures update systems
 
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="docs/adoptions/" %}}
+{{% blocks/feature icon="fa-solid fa-gear" title="Production Ready" url="/community/adoptions/" %}}
 Used in production by various tech companies and open source organizations.
 
 {{% /blocks/feature %}}
@@ -60,7 +60,7 @@ Start contributing to TUF open source by creating a Pull request on
 [![CNCF logo][]][cncf]
 
 [cncf]: https://cncf.io
-[cncf logo]: static/img/cncf-white.svg
+[cncf logo]: /img/cncf-white.svg
 [incubating]: https://www.cncf.io/projects/
 
 {{% /blocks/section %}}
