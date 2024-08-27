@@ -4,7 +4,7 @@ weight: 15
 description:
 ---
 
-The following doc versions are available:
+The following specification versions are available:
 
 - [latest](https://theupdateframework.github.io/specification/latest/index.html)
 - [draft](https://theupdateframework.github.io/specification/draft/index.html)
