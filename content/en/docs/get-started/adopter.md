@@ -8,9 +8,9 @@ TUF provides a framework for integration of the
 [security](docs/overview/security) properties into new and existing content
 delivery systems.
 
-While some [adoptions](/community) integrate TUF by implementing the
-framework from scratch, others start from either a TUF implementation or from a
-TUF system.
+While some [adoptions](/community) integrate TUF by implementing the framework
+from scratch, others start from either a TUF implementation or from a TUF
+system.
 
 This page lists open source implementations of TUF which can be used as building
 blocks for any TUF adoption.
@@ -26,7 +26,6 @@ algorithms, such as the detailed client workflow, in the specification.
 - [tuf-js](https://github.com/theupdateframework/tuf-js)
 
 ## Systems
-
 
 TUF systems build on top of library implementations and provide opinionated
 signing systems designed for particular use-cases.
