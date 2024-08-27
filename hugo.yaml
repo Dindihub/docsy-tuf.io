@@ -77,7 +77,7 @@ params:
     sidebar_cache_limit: 10
     sidebar_menu_compact: true
     sidebar_menu_foldable: false
-    sidebar_search_disable: false
+    sidebar_search_disable: true
     feedback: # CUSTOMIZE
       enable: false # FIXME: setting to false until the feedback can be better configured
       'yes': >-
