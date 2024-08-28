@@ -1,6 +1,6 @@
 ---
 title: Specification
-linkTitle: Specification
+linkTitle:  Spec
 menu: { main: { weight: 35 } }
 cascade:
   type: docs
