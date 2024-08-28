@@ -1,7 +1,9 @@
 ---
-title: Specification index
-weight: 15
-description:
+title: Specification
+linkTitle: Spec
+menu: { main: { weight: 35 } }
+cascade:
+  type: docs
 ---
 
 The following specification versions are available:
