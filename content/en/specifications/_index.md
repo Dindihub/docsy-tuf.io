@@ -30,8 +30,8 @@ The following specification versions are available:
 This list is also available from
 [Spec versions](https://theupdateframework.github.io/specification/).
 
-Learn more about the spec from our latest
-[specification](https://theupdateframework.github.io/specification/latest/) docs
+To learn more, see the latest version of the
+[specification](https://theupdateframework.github.io/specification/latest/),
 or watch the following video.
 
 {{< youtube "1rM8a9cPo-I" >}}
